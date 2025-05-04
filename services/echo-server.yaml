@@ -1,0 +1,10 @@
+kind: Service
+apiVersion: v1
+metadata:
+  namespace: application
+  name: echo-server-service
+spec:
+  selector:
+    app: echo-server
+  ports:
+    - port: 8080
