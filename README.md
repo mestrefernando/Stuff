@@ -1,1 +1,1 @@
-Minikube stuff: Ver os documentos.
+Minikube stuff
